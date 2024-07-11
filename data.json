@@ -1,0 +1,182 @@
+[
+  {
+    "StaffID": "ID_6496",
+    "StaffName": "Alice Smith",
+    "Position": "Clerk",
+    "Password": "gahtC7yO"
+  },
+  {
+    "StaffID": "ID_4545",
+    "StaffName": "Nina Purple",
+    "Position": "Planner",
+    "Password": "qcfuXKzj"
+  },
+  {
+    "StaffID": "ID_1156",
+    "StaffName": "Yvonne Amethyst",
+    "Position": "Trainer",
+    "Password": "XsXd49bN"
+  },
+  {
+    "StaffID": "ID_3734",
+    "StaffName": "Fiona White",
+    "Position": "Agent",
+    "Password": "hDxPAec3"
+  },
+  {
+    "StaffID": "ID_3941",
+    "StaffName": "Wendy Emerald",
+    "Position": "Analyst",
+    "Password": "ve9HI9zP"
+  },
+  {
+    "StaffID": "ID_2763",
+    "StaffName": "Chloe Lavender",
+    "Position": "Developer",
+    "Password": "2zD8xJ7Q"
+  },
+  {
+    "StaffID": "ID_9620",
+    "StaffName": "Laura Yellow",
+    "Position": "Agent",
+    "Password": "ISKC9lxI"
+  },
+  {
+    "StaffID": "ID_3502",
+    "StaffName": "Eva Green",
+    "Position": "Leader",
+    "Password": "u5VYueIW"
+  },
+  {
+    "StaffID": "ID_4957",
+    "StaffName": "Quincy Copper",
+    "Position": "Agent",
+    "Password": "3A80kI65"
+  },
+  {
+    "StaffID": "ID_7842",
+    "StaffName": "Eva Green",
+    "Position": "Designer",
+    "Password": "Ecd233Cg"
+  },
+  {
+    "StaffID": "ID_7782",
+    "StaffName": "Rachel Bronze",
+    "Position": "Director",
+    "Password": "XOoFOelA"
+  },
+  {
+    "StaffID": "ID_3345",
+    "StaffName": "Derek Coral",
+    "Position": "Executive",
+    "Password": "5jUdVZa1"
+  },
+  {
+    "StaffID": "ID_8404",
+    "StaffName": "Zane Topaz",
+    "Position": "Officer",
+    "Password": "yJMBFFdX"
+  },
+  {
+    "StaffID": "ID_6996",
+    "StaffName": "Fiona White",
+    "Position": "Director",
+    "Password": "z2TAZ6nK"
+  },
+  {
+    "StaffID": "ID_2314",
+    "StaffName": "Laura Yellow",
+    "Position": "Clerk",
+    "Password": "b6rkWLmH"
+  },
+  {
+    "StaffID": "ID_9613",
+    "StaffName": "Jane Red",
+    "Position": "Strategist",
+    "Password": "AjWooGbf"
+  },
+  {
+    "StaffID": "ID_6122",
+    "StaffName": "Uma Pearl",
+    "Position": "Manager",
+    "Password": "ASGDHvyR"
+  },
+  {
+    "StaffID": "ID_2766",
+    "StaffName": "Jane Red",
+    "Position": "Technician",
+    "Password": "K0yU8V4u"
+  },
+  {
+    "StaffID": "ID_4911",
+    "StaffName": "Quincy Copper",
+    "Position": "Assistant",
+    "Password": "2rZ5830d"
+  },
+  {
+    "StaffID": "ID_9042",
+    "StaffName": "George Black",
+    "Position": "Officer",
+    "Password": "uQgHJdeB"
+  },
+  {
+    "StaffID": "ID_8795",
+    "StaffName": "Kevin Orange",
+    "Position": "Architect",
+    "Password": "HlrSYwlh"
+  },
+  {
+    "StaffID": "ID_1533",
+    "StaffName": "Bob Johnson",
+    "Position": "Facilitator",
+    "Password": "kemMgeD6"
+  },
+  {
+    "StaffID": "ID_8262",
+    "StaffName": "Laura Yellow",
+    "Position": "Agent",
+    "Password": "fF8A1dW7"
+  },
+  {
+    "StaffID": "ID_1801",
+    "StaffName": "Blake Azure",
+    "Position": "Operator",
+    "Password": "0qD0o9Nb"
+  },
+  {
+    "StaffID": "ID_3170",
+    "StaffName": "Alice Smith",
+    "Position": "Instructor",
+    "Password": "4tRJxJ5l"
+  },
+  {
+    "StaffID": "ID_7881",
+    "StaffName": "Amber Crimson",
+    "Position": "Facilitator",
+    "Password": "piKXjmSc"
+  },
+  {
+    "StaffID": "ID_5736",
+    "StaffName": "George Black",
+    "Position": "Planner",
+    "Password": "suHIi7kO"
+  },
+  {
+    "StaffID": "ID_5300",
+    "StaffName": "Zane Topaz",
+    "Position": "Operator",
+    "Password": "UoXqI8Aa"
+  },
+  {
+    "StaffID": "ID_4947",
+    "StaffName": "Zane Topaz",
+    "Position": "Advisor",
+    "Password": "JBFylaPF"
+  },
+  {
+    "StaffID": "ID_6434",
+    "StaffName": "Tina Jade",
+    "Position": "Assistant",
+    "Password": "ru997W4Z"
+  }
+]
