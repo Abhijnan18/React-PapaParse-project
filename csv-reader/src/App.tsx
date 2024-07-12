@@ -2,13 +2,20 @@ import React, { useState } from 'react';
 import Papa from 'papaparse';
 import './App.css';
 
-function App() {
-  const [data, setData] = useState([]);
+interface StaffData {
+  StaffID: string;
+  StaffName: string;
+  Position: string;
+  Password: string;
+}
 
-  const handleFileUpload = (event) => {
-    const file = event.target.files[0];
+const App: React.FC = () => {
+  const [data, setData] = useState<StaffData[]>([]);
+
+  const handleFileUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const file = event.target.files?.[0];
     if (file) {
-      Papa.parse(file, {
+      Papa.parse<StaffData>(file, {
         header: true,
         skipEmptyLines: true,
         complete: (result) => {
@@ -52,9 +59,13 @@ function App() {
       )}
     </div>
   );
+};
+
+interface TableProps {
+  data: StaffData[];
 }
 
-const Table = ({ data }) => {
+const Table: React.FC<TableProps> = ({ data }) => {
   if (data.length === 0) return null;
 
   const headers = Object.keys(data[0]);
@@ -72,7 +83,7 @@ const Table = ({ data }) => {
         {data.map((row, index) => (
           <tr key={index}>
             {headers.map((header) => (
-              <td key={header}>{row[header]}</td>
+              <td key={header}>{(row as any)[header]}</td>
             ))}
           </tr>
         ))}
